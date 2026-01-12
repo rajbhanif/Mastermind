@@ -67,8 +67,7 @@ Le code est fourni à des fins éducatives.
 
 *Déroulement complet d’une partie de Mastermind en console*
 
-▶ Vidéo de démonstration
-[https://rajbhanif.github.io/Mastermind/mastermind.mp4](https://rajbhanif.github.io/Mastermind/Mastermind.mp4)
+<a href="https://rajbhanif.github.io/Matermind/Mastermind.mp4" target="_blank">▶ Cliquez ici pour ouvrir la vidéo de démo</a>
 
 *La vidéo montre la génération de la combinaison, les tentatives du joueur et la fin de partie.*
 

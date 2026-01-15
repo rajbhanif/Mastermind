@@ -71,7 +71,7 @@ Le code est fourni à des fins éducatives.
 
 *La vidéo montre la génération de la combinaison, les tentatives du joueur et la fin de partie.*
 
-## Auteur
+## Autrice
 
 **Raj Beghum Hanif**
 Projet académique – Mastermind (Java, Console)
